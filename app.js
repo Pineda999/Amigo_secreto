@@ -28,5 +28,4 @@ function Texto(){
    document.querySelector("#listaAmigos").innerHTML +="<li>"+mostrarLista+"</li>";
     return;
 }
-
-alert("hol")
+alert("hola")
